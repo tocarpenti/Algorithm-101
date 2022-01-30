@@ -4,7 +4,7 @@ Temps passé sur le projet:
 
  - Tizi ABDERRAHIME:
  - Chihab LOUGHLIMI:
- - Othmame:
+ - Othmame: 9h 
  - Kamal:
  - Samir HADJI:
  - Mouhammed SANKHANE:
