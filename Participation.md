@@ -8,4 +8,4 @@ Temps passé sur le projet:
  - Kamal:
  - Samir HADJI:
  - Mouhammed SANKHANE:
- - Tom CARPENTIER:
+ - Tom CARPENTIER: 15h
